@@ -338,6 +338,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro Expedito De Oliveira      | expeditocaf00@gmail.com                 | https://github.com/pedroexpedito          |
 | Pedro Fonseca Ribeiro           | pedro.fr@estudante.iftm.edu.br          | https://github.com/pedrofnscr             |
 | Pedro Henrique Araujo de Souza  | souza.pharaujo@gmail.com                | https://github.com/ph-souzaa              |
+| Pedro Henrique I. dos Santos    | piterwork3@gmail.com                    | https://github.com/Piterwork              |
 | Pedro Igor Oliveira Silva       | pedroigor@aluno.unb.br                  | https://github.com/pedroeagle             |
 | Pedro Lôbo Nascimento           | pedrolnascimento2004@gmail.com          | https://github.com/m1thrandirr            |
 | Rafael Barros Pires             | rafaelbpires@gmail.com                  | https://github.com/bpires                 |
